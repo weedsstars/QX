@@ -6,7 +6,6 @@
 # IP6-CIDR: 31
 # HOST: 7
 # TOTAL: 96
-#Steam官方给出的请求域名(https://help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB)
 HOST-SUFFIX,steampowered.com,🌍 Steam
 HOST-SUFFIX,steamcommunity.com,🌍 Steam
 HOST-SUFFIX,steamgames.com,🌍 Steam
@@ -14,13 +13,11 @@ HOST-SUFFIX,steamusercontent.com,🌍 Steam
 HOST-SUFFIX,steamcontent.com,🌍 Steam
 HOST-SUFFIX,steamstatic.com,🌍 Steam
 HOST-SUFFIX,akamaihd.net,🌍 Steam 
-#补充Steam域名
 HOST-SUFFIX,steam-chat.com,🌍 Steam
 HOST-SUFFIX,steamserver.net,🌍 Steam
 HOST-SUFFIX,steamstat.us,🌍 Steam
 HOST,api.steampowered.com,🌍 Steam
 HOST-SUFFIX,*.cm.steampowered.com,🌍 Steam
-#补充Steam-ipv4域名(https://bgp.he.net/AS32590#_prefixes)
 IP-CIDR,103.10.124.0/24,🌍 Steam
 IP-CIDR,103.10.125.0/24,🌍 Steam
 IP-CIDR,103.28.54.0/24,🌍 Steam
@@ -67,7 +64,6 @@ IP-CIDR,208.64.201.0/24,🌍 Steam
 IP-CIDR,208.64.202.0/24,🌍 Steam
 IP-CIDR,208.64.203.0/24,🌍 Steam
 IP-CIDR,208.78.164.0/22,🌍 Steam
-#补充Steam-ipv6域名(https://bgp.he.net/AS32590#_prefixes6)
 IP6-CIDR,2404:3fc0::/48,🌍 Steam
 IP6-CIDR,2404:3fc0:1::/48,🌍 Steam
 IP6-CIDR,2404:3fc0:2::/48,🌍 Steam
@@ -99,7 +95,6 @@ IP6-CIDR,2a01:bc80:9::/48,🌍 Steam
 IP6-CIDR,2a01:bc80:a::/48,🌍 Steam
 IP6-CIDR,2a01:bc80:b::/48,🌍 Steam
 IP6-CIDR,2a01:bc80:c::/48,🌍 Steam
-#补充akamaihd-Steam域名
 HOST,steambroadcast.akamaized.net,🌍 Steam
 HOST,steamcommunity-a.akamaihd.net,🌍 Steam
 HOST,steamstore-a.akamaihd.net,🌍 Steam
