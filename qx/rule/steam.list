@@ -17,7 +17,7 @@ HOST-SUFFIX,steam-chat.com,🌍 Steam
 HOST-SUFFIX,steamserver.net,🌍 Steam
 HOST-SUFFIX,steamstat.us,🌍 Steam
 HOST,api.steampowered.com,🌍 Steam
-HOST-SUFFIX,*.cm.steampowered.com,🌍 Steam
+HOST-SUFFIX,cm.steampowered.com,🌍 Steam
 IP-CIDR,103.10.124.0/24,🌍 Steam
 IP-CIDR,103.10.125.0/24,🌍 Steam
 IP-CIDR,103.28.54.0/24,🌍 Steam
