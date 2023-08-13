@@ -1,11 +1,11 @@
 # NAME: Steam
 # AUTHOR: yzm
 # REPO: https://github.com/weedsstars/QX
-# HOST-SUFFIX: 4
-# IP-CIDR: 
-# IP6-CIDR:
-# HOST:
-# TOTAL: 95
+# HOST-SUFFIX: 11
+# IP-CIDR: 46
+# IP6-CIDR: 31
+# HOST: 7
+# TOTAL: 96
 #Steam官方给出的请求域名(https://help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB)
   - HOST-SUFFIX,steampowered.com,🌍 Steam
   - HOST-SUFFIX,steamcommunity.com,🌍 Steam
