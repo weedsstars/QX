@@ -4,3 +4,6 @@
 # HOST-SUFFIX: 1
 # TOTAL: 1
 HOST-SUFFIX,oldubil.colendilabs.com,Oldubil
+HOST-SUFFINX,event.dengage.com,Oldubil
+HOST-SUFFINX,app-measurement.com,Oldubil
+HOST-SUFFINX,push.dengage.com,Oldubil
