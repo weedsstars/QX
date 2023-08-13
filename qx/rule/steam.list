@@ -1,0 +1,108 @@
+# NAME: Steam
+# AUTHOR: yzm
+# REPO: https://github.com/weedsstars/QX
+# HOST-SUFFIX: 11
+# IP-CIDR: 46
+# IP6-CIDR: 31
+# HOST: 7
+# TOTAL: 96
+#Steam官方给出的请求域名(https://help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB)
+  - HOST-SUFFIX,steampowered.com,🌍 Steam
+  - HOST-SUFFIX,steamcommunity.com,🌍 Steam
+  - HOST-SUFFIX,steamgames.com,🌍 Steam
+  - HOST-SUFFIX,steamusercontent.com,🌍 Steam
+  - HOST-SUFFIX,steamcontent.com,🌍 Steam
+  - HOST-SUFFIX,steamstatic.com,🌍 Steam
+  - HOST-SUFFIX,akamaihd.net,🌍 Steam 
+#补充Steam域名
+  - HOST-SUFFIX,steam-chat.com,🌍 Steam
+  - HOST-SUFFIX,steamserver.net,🌍 Steam
+  - HOST-SUFFIX,steamstat.us,🌍 Steam
+  - HOST,api.steampowered.com,🌍 Steam
+  - HOST-SUFFIX,*.cm.steampowered.com,🌍 Steam
+#补充Steam-ipv4域名(https://bgp.he.net/AS32590#_prefixes)
+  - IP-CIDR,103.10.124.0/24,🌍 Steam
+  - IP-CIDR,103.10.125.0/24,🌍 Steam
+  - IP-CIDR,103.28.54.0/24,🌍 Steam
+  - IP-CIDR,146.66.152.0/24,🌍 Steam
+  - IP-CIDR,146.66.155.0/24,🌍 Steam
+  - IP-CIDR,153.254.86.0/24,🌍 Steam
+  - IP-CIDR,155.133.224.0/23,🌍 Steam
+  - IP-CIDR,155.133.226.0/24,🌍 Steam
+  - IP-CIDR,155.133.227.0/24,🌍 Steam
+  - IP-CIDR,155.133.230.0/24,🌍 Steam
+  - IP-CIDR,155.133.232.0/24,🌍 Steam
+  - IP-CIDR,155.133.233.0/24,🌍 Steam
+  - IP-CIDR,155.133.234.0/24,🌍 Steam
+  - IP-CIDR,155.133.236.0/23,🌍 Steam
+  - IP-CIDR,155.133.238.0/24,🌍 Steam
+  - IP-CIDR,155.133.239.0/24,🌍 Steam
+  - IP-CIDR,155.133.240.0/23,🌍 Steam
+  - IP-CIDR,155.133.245.0/24,🌍 Steam
+  - IP-CIDR,155.133.246.0/24,🌍 Steam
+  - IP-CIDR,155.133.248.0/24,🌍 Steam
+  - IP-CIDR,155.133.249.0/24,🌍 Steam
+  - IP-CIDR,155.133.250.0/24,🌍 Steam
+  - IP-CIDR,155.133.251.0/24,🌍 Steam
+  - IP-CIDR,155.133.252.0/24,🌍 Steam
+  - IP-CIDR,155.133.253.0/24,🌍 Steam
+  - IP-CIDR,155.133.254.0/24,🌍 Steam
+  - IP-CIDR,155.133.255.0/24,🌍 Steam
+  - IP-CIDR,162.254.192.0/24,🌍 Steam
+  - IP-CIDR,162.254.193.0/24,🌍 Steam
+  - IP-CIDR,162.254.194.0/23,🌍 Steam
+  - IP-CIDR,162.254.195.0/24,🌍 Steam
+  - IP-CIDR,162.254.196.0/24,🌍 Steam
+  - IP-CIDR,162.254.197.0/24,🌍 Steam
+  - IP-CIDR,162.254.198.0/24,🌍 Steam
+  - IP-CIDR,162.254.199.0/24,🌍 Steam
+  - IP-CIDR,185.25.182.0/24,🌍 Steam
+  - IP-CIDR,185.25.183.0/24,🌍 Steam
+  - IP-CIDR,190.217.33.0/24,🌍 Steam
+  - IP-CIDR,192.69.96.0/22,🌍 Steam
+  - IP-CIDR,205.185.194.0/24,🌍 Steam
+  - IP-CIDR,205.196.6.0/24,🌍 Steam
+  - IP-CIDR,208.64.200.0/24,🌍 Steam
+  - IP-CIDR,208.64.201.0/24,🌍 Steam
+  - IP-CIDR,208.64.202.0/24,🌍 Steam
+  - IP-CIDR,208.64.203.0/24,🌍 Steam
+  - IP-CIDR,208.78.164.0/22,🌍 Steam
+#补充Steam-ipv6域名(https://bgp.he.net/AS32590#_prefixes6)
+  - IP6-CIDR,2404:3fc0::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:1::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:2::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:3::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:4::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:5::/48,🌍 Steam
+  - IP6-CIDR,2404:3fc0:7::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f000::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f001::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f002::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f005::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f006::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f007::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f008::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f009::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f00a::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f00b::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f00d::/48,🌍 Steam
+  - IP6-CIDR,2602:801:f00e::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:1::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:2::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:3::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:4::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:5::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:6::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:7::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:8::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:9::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:a::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:b::/48,🌍 Steam
+  - IP6-CIDR,2a01:bc80:c::/48,🌍 Steam
+#补充akamaihd-Steam域名
+  - HOST,steambroadcast.akamaized.net,🌍 Steam
+  - HOST,steamcommunity-a.akamaihd.net,🌍 Steam
+  - HOST,steamstore-a.akamaihd.net,🌍 Steam
+  - HOST,steamusercontent-a.akamaihd.net,🌍 Steam
+  - HOST,steamuserimages-a.akamaihd.net,🌍 Steam
+  - HOST,steampipe.akamaized.net,🌍 Steam 
