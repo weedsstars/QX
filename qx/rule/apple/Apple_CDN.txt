@@ -12,4 +12,4 @@ HOST,swcdn.apple.com,Apple
 HOST,apptrailers.itunes.apple.com,Apple
 HOST,updates-http.cdn-apple.com,Apple
 HOST-SUFFIX,ls.apple.com,Apple
-HOST,gs-loc-cn.apple.com
+HOST,gs-loc-cn.apple.com,Apple
