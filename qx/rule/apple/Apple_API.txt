@@ -1,4 +1,4 @@
-HOST-SUFFIX,applingmg.com,Apple
+HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
